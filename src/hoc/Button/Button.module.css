@@ -1,0 +1,20 @@
+.Button{
+    background: #259385;
+    border-radius: 50px;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 130%;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 12px 44px;
+    border: none;
+    transition: all .3s;
+    max-width: 300px;
+}
+
+.Button:hover{
+    /* color: red; */
+    background: #16685d;
+    color: rgba(255, 255, 255, 0.829);
+
+}

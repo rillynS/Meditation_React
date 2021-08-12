@@ -1,7 +1,43 @@
 .Main{
     padding: 0;
     margin: 0;
+    height: 1131px;
+    background: url(../../img/main_bg.png)center/cover no-repeat;
+}
+
+.Main h1{
+    font-family: Merienda One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 68px;
+    line-height: 130%;
+    text-align: center;
+    color: #FFFFFF;
+    width: 758px;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+
+.Main p {
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    width: 1110px;  
+    margin: 0 auto;
+    padding-top: 22px;
+}
+Button{
+    display: block;
+    margin: 0 auto;
     width: 100%;
-    height: 100vh;
-    background: url(../../img/main_bg.png) center/cover no-repeat;
+    margin-top: 50px;
+}
+
+.Main img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 591px;
+    height: 558px;
 }
