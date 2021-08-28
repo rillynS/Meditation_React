@@ -1,0 +1,43 @@
+.PracticeCard {
+    width: 730px;
+    height: 233px;
+    cursor: pointer;
+    border-radius: 15px;
+    transition: all .3s;
+    position: relative;
+}
+.PracticeCard:hover{
+    background: #fffefe;
+
+}
+.PracticeCard h2{
+    padding:35px 0 0 40px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 47px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.8);
+    text-align: left;
+}
+
+.PracticeCard p {
+    width: 619px;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.PracticeCard img{
+    position: absolute;
+    top: 85%;
+    left: 80%;
+    bottom: 0;
+    right: 0;
+
+}

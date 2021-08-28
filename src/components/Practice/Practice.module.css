@@ -1,0 +1,32 @@
+.Practice {
+    display: block;
+    margin-top: 117px;
+}
+
+.Practice h2 {
+    margin: 0 auto;
+    width: 706px;
+    font-family: Merienda One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 70px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 22px;
+}
+
+.Practice p {
+    padding-bottom: 70px;
+    width: 1105px;
+    margin: 0 auto;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+.Practice_content{
+    display: flex;
+    justify-content: space-around;
+}

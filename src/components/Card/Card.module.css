@@ -1,0 +1,5 @@
+.Card{
+    padding-top: 125px;
+    display: flex;
+    justify-content: space-around;
+}
